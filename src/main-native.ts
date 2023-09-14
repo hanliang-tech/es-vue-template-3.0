@@ -1,10 +1,9 @@
 //
-import routes from "./routes.js";
-import {ESApp,} from '@extscreen/es3-vue';
+import routes from "./routes";
+import {ESApp} from '@extscreen/es3-vue';
 import application from './App.vue';
 
 import {createESApp} from "@extscreen/es3-core";
-import {createESLog, ESLog} from "@extscreen/es3-log";
 
 const routerOptions = {
   main: 'index',
@@ -14,9 +13,6 @@ const routerOptions = {
 }
 
 const app: ESApp = createESApp(application, routerOptions);
-
-const esLog: ESLog = createESLog();
-app.use(esLog);
 
 import {ESComponent} from "@extscreen/es3-component";
 

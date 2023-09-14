@@ -6,7 +6,7 @@
 
 <script>
 import {defineComponent} from '@vue/runtime-core';
-import {DEBUG, useESLog} from "@extscreen/es3-log";
+import {ESLogLevel, useESLog} from "@extscreen/es3-core";
 
 export default defineComponent({
   name: 'App',
@@ -14,10 +14,12 @@ export default defineComponent({
     const log = useESLog()
 
     function onESCreate(app, params) {
-      log.setMinimumLoggingLevel(DEBUG)
+      log.setMinimumLoggingLevel(ESLogLevel.DEBUG)
     }
 
-    return {onESCreate};
+    return {
+      onESCreate
+    };
   },
 });
 

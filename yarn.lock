@@ -1971,25 +1971,15 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@extscreen/es3-component@0.0.7":
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/@extscreen/es3-component/-/es3-component-0.0.7.tgz#0f359b2ba7a38c6644861555d09af39c58589216"
-  integrity sha512-UPVobyyCOcmKHZJHz+rRcUTTzWoERjD8utcGif6UYiXP5xUITnAAjrNpuTpkzvxMijwrjfFULRxk5noo3eOKSg==
+"@extscreen/es3-component@0.0.13":
+  version "0.0.13"
+  resolved "https://registry.yarnpkg.com/@extscreen/es3-component/-/es3-component-0.0.13.tgz#5ce83172a602d7a7bd63155f01ad3cf6943831e8"
+  integrity sha512-i+67pqyCjMXw20i5v3/R3Ti7mlX7T8UgYckssPNsSlM57v5CH3oQgQZEOuMcUizyPTTrN43QPWpk2PJviCLJfA==
 
-"@extscreen/es3-core@0.0.11":
-  version "0.0.11"
-  resolved "https://registry.yarnpkg.com/@extscreen/es3-core/-/es3-core-0.0.11.tgz#c11b2d59f20474520b68538fa93cd79b88185181"
-  integrity sha512-EmUH7TMyJQytFXDbJbefo8BAHgW2et5h/T2nQXbFEiMSXopWtclE2MDF3MjHmqJFGncFtpOs1cjjHwUz1i1Lnw==
-
-"@extscreen/es3-downloader@0.0.4":
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@extscreen/es3-downloader/-/es3-downloader-0.0.4.tgz#c335fd51786ec5b65b7cc5cc57762ff55c3a8e76"
-  integrity sha512-4fxduScOezhXSZxnSbzbwsbp2XU1aizOORA52zaLBdIiBS2Ph4TG2ndkMAPRKWm41PMvRE3n2qgi08o1653uFg==
-
-"@extscreen/es3-log@0.0.17":
-  version "0.0.17"
-  resolved "https://registry.yarnpkg.com/@extscreen/es3-log/-/es3-log-0.0.17.tgz#53f58dd8aa8849ecfa862761ae880fdaadd502ba"
-  integrity sha512-G91CLjLMytPF0nOpWkW8spif4Qfp8vHat2U/fbTztCxjyMFDncmz1BE5qjtDMYa8LM6A5Lkisp8WWuIwYb4EIg==
+"@extscreen/es3-core@0.0.20":
+  version "0.0.20"
+  resolved "https://registry.yarnpkg.com/@extscreen/es3-core/-/es3-core-0.0.20.tgz#5daaea3f1a8e529c4754f25996c4653af4870e4a"
+  integrity sha512-ZPlnifhyISgTwXP9D4fWNJ6AKRfW8x6siMoDfkAsBnoK48e3X5hy2Ejg9jm5RGZu6WH7WveeDCSYbZT1BOxebA==
 
 "@extscreen/es3-router@0.0.14":
   version "0.0.14"
