@@ -1971,20 +1971,20 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@extscreen/es3-component@0.0.13":
-  version "0.0.13"
-  resolved "https://registry.yarnpkg.com/@extscreen/es3-component/-/es3-component-0.0.13.tgz#5ce83172a602d7a7bd63155f01ad3cf6943831e8"
-  integrity sha512-i+67pqyCjMXw20i5v3/R3Ti7mlX7T8UgYckssPNsSlM57v5CH3oQgQZEOuMcUizyPTTrN43QPWpk2PJviCLJfA==
+"@extscreen/es3-component@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@extscreen/es3-component/-/es3-component-1.0.0.tgz#b8fe14caaf5e70679be34d608c2ba88cd4af7bf7"
+  integrity sha512-Ajrqtvzlecl2klRvlTsrAfKmoUxNwRD0Hdb2F1Li6weDsMolZIpnyslXnfcNJntNu2rorcvgsBRyFpaQQAdUwA==
 
-"@extscreen/es3-core@0.0.20":
-  version "0.0.20"
-  resolved "https://registry.yarnpkg.com/@extscreen/es3-core/-/es3-core-0.0.20.tgz#5daaea3f1a8e529c4754f25996c4653af4870e4a"
-  integrity sha512-ZPlnifhyISgTwXP9D4fWNJ6AKRfW8x6siMoDfkAsBnoK48e3X5hy2Ejg9jm5RGZu6WH7WveeDCSYbZT1BOxebA==
+"@extscreen/es3-core@0.0.43":
+  version "0.0.43"
+  resolved "https://registry.yarnpkg.com/@extscreen/es3-core/-/es3-core-0.0.43.tgz#d5c2c5baee0ea443afa665984d91218806af54ae"
+  integrity sha512-gBMyTU7suRbujVfrAs7kmr5cT74tvciNTpHx4ANxVDU32a3qp1wOHtq0w9LehUItaRCvu3ijcXSU4rlj+Dr2FA==
 
-"@extscreen/es3-router@0.0.14":
-  version "0.0.14"
-  resolved "https://registry.yarnpkg.com/@extscreen/es3-router/-/es3-router-0.0.14.tgz#7422786bfda6d95c5275c24ac49a59cc1a703818"
-  integrity sha512-az6F0M0+plWy7R00zppPNBdv/EDwaKsdlrNHWscyiHn7HNEqA5Gd7PRl5of1/SjwDTEScaG9csaSsneytzk1cw==
+"@extscreen/es3-router@0.0.22":
+  version "0.0.22"
+  resolved "https://registry.yarnpkg.com/@extscreen/es3-router/-/es3-router-0.0.22.tgz#868693ad2299ef4dd8041fe070ac124a31dbe6b2"
+  integrity sha512-eLMetK6qEg01mH2DW2YgH+ioSmbvrO4jzuk7/Jn47PR/3HzOvtzeUWc+Nfr//r+UXJS1jZnpLyV607gtQ1VXcQ==
   dependencies:
     "@vue/devtools-api" "^6.5.0"
 
@@ -2282,6 +2282,11 @@
   dependencies:
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
+
+"@quicktvui/quicktvui3@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@quicktvui/quicktvui3/-/quicktvui3-1.0.0.tgz#c293c77f0711eb5ce07fc9dcfb6e240dc9183b37"
+  integrity sha512-JtqrLgNlfYFcIrawxC7ZssV7CJ7fKh6OeT6y0FUx0gbjLimaGmtW+bArElivsrhRL7zCW1X329qLULJo/9WOhQ==
 
 "@rollup/plugin-commonjs@^25.0.0":
   version "25.0.3"

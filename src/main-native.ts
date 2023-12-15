@@ -18,8 +18,11 @@ import {ESComponent} from "@extscreen/es3-component";
 
 app.use(ESComponent);
 
+//------------------------------QUICK UI-------------------------
+import '@quicktvui/quicktvui3/dist/index.css';
+import {QuickTVUI} from "@quicktvui/quicktvui3";
 
-
+app.use(QuickTVUI);
 
 
 
