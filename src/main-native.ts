@@ -1,9 +1,9 @@
 //
-import routes from "./routes";
+
 import {ESApp} from '@extscreen/es3-vue';
 import application from './App.vue';
 
-import {createESApp} from "@extscreen/es3-core";
+import routes from "./routes";
 
 const routerOptions = {
   main: 'index',
@@ -12,7 +12,11 @@ const routerOptions = {
   routes: routes,
 }
 
+import {createESApp} from "@extscreen/es3-core";
+
 const app: ESApp = createESApp(application, routerOptions);
+
+//------------------------------Component-------------------------
 
 import {ESComponent} from "@extscreen/es3-component";
 

@@ -1971,68 +1971,24 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@extscreen/es3-component@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@extscreen/es3-component/-/es3-component-1.0.0.tgz#b8fe14caaf5e70679be34d608c2ba88cd4af7bf7"
-  integrity sha512-Ajrqtvzlecl2klRvlTsrAfKmoUxNwRD0Hdb2F1Li6weDsMolZIpnyslXnfcNJntNu2rorcvgsBRyFpaQQAdUwA==
+"@extscreen/es3-component@1.0.11":
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/@extscreen/es3-component/-/es3-component-1.0.11.tgz#e0915169f2c5c1c836ec39c34686d3d084fe77ee"
+  integrity sha512-3Li3gajlyWBpqR1m8FV7calcNYBLUGTbxcEuGUvThCkv0mdsXB//7v5tzwb97y9lGJ+XfT52nffspiRBOO1fPA==
 
-"@extscreen/es3-core@0.0.43":
-  version "0.0.43"
-  resolved "https://registry.yarnpkg.com/@extscreen/es3-core/-/es3-core-0.0.43.tgz#d5c2c5baee0ea443afa665984d91218806af54ae"
-  integrity sha512-gBMyTU7suRbujVfrAs7kmr5cT74tvciNTpHx4ANxVDU32a3qp1wOHtq0w9LehUItaRCvu3ijcXSU4rlj+Dr2FA==
+"@extscreen/es3-core@1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@extscreen/es3-core/-/es3-core-1.0.6.tgz#15df31413d9ec0d16fda94fbb792d8d69a44086f"
+  integrity sha512-VQG8UQWqTIHFi78k3jti5zEk4Etb+FocRRzWRAciS0QpZFzsgdM+LLQhGPI0PmRGkNUVecpHsiqWnaGuUDvdeQ==
 
-"@extscreen/es3-router@0.0.22":
-  version "0.0.22"
-  resolved "https://registry.yarnpkg.com/@extscreen/es3-router/-/es3-router-0.0.22.tgz#868693ad2299ef4dd8041fe070ac124a31dbe6b2"
-  integrity sha512-eLMetK6qEg01mH2DW2YgH+ioSmbvrO4jzuk7/Jn47PR/3HzOvtzeUWc+Nfr//r+UXJS1jZnpLyV607gtQ1VXcQ==
-  dependencies:
-    "@vue/devtools-api" "^6.5.0"
-
-"@extscreen/es3-vue-style-parser@0.0.8":
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/@extscreen/es3-vue-style-parser/-/es3-vue-style-parser-0.0.8.tgz#bc15f720df8a02bb31a70f6edfd1ca07eb6781ce"
-  integrity sha512-01Z8CUVVSHlzWnXE0VdeCd+aKB6uxJoTedDLP0ucPHcOmuHtMN06WJQHN42qZBsSYFlKdyN6MWeB7tJkffLcWw==
-  dependencies:
-    "@vue/shared" "^3.2.21"
-
-"@extscreen/es3-vue@0.0.12":
-  version "0.0.12"
-  resolved "https://registry.yarnpkg.com/@extscreen/es3-vue/-/es3-vue-0.0.12.tgz#cf80de3648a98debb7d5f26eac0bc69e4a96c23a"
-  integrity sha512-4k25Zzw3NmB+FlIczIyBWXPlO3r742nG1VySH/nfX8w8sfH8Jc0yaTaIybCZjAOb+MSTSkHUCp7FstOcbYeh3w==
-  dependencies:
-    "@vue/runtime-core" "^3.2.21"
-    "@vue/shared" "^3.2.21"
-
-"@hapi/hoek@^9.0.0":
-  version "9.3.0"
-  resolved "https://registry.yarnpkg.com/@hapi/hoek/-/hoek-9.3.0.tgz#8368869dcb735be2e7f5cb7647de78e167a251fb"
-  integrity sha512-/c6rf4UJlmHlC9b5BaNvzAcFv7HZ2QHaV0D4/HNlBdvFnvQq8RI4kYdhyPCl7Xj+oWvTWQ8ujhqS53LIgAe6KQ==
-
-"@hapi/topo@^5.0.0":
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/@hapi/topo/-/topo-5.1.0.tgz#dc448e332c6c6e37a4dc02fd84ba8d44b9afb012"
-  integrity sha512-foQZKJig7Ob0BMAYBfcJk8d77QtOe7Wo4ox7ff1lQYoNNAb6jwcY1ncdoy2e9wQZzvNy7ODZCYJkK8kzmcAnAg==
-  dependencies:
-    "@hapi/hoek" "^9.0.0"
-
-"@hippy/chrome-devtools-extensions@^0.0.1":
+"@extscreen/es3-debug-server@0.0.1":
   version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@hippy/chrome-devtools-extensions/-/chrome-devtools-extensions-0.0.1.tgz#a5bf38f5232200d9ba601811063f609234ac468f"
-  integrity sha512-pk7SBSpZxyMgr0lwQbsxYG/WFK9mtgQoVpNqEPqAMtcEpOEeNdJiZa+UHmn1UWYLDtt1brqrIGhaImuXi93zlQ==
-
-"@hippy/chrome-devtools@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@hippy/chrome-devtools/-/chrome-devtools-0.1.2.tgz#ad9763b3c4b67bf430c0316f8cce9f561e2e8b11"
-  integrity sha512-iwJhsvQ5MiYpB68JVOgfiUMXL7IG8jrWu6quoAcODFatsQi8JPHm2VB+WymXiJnbbpdwL6WTDHFAvcOXQRYu0Q==
-
-"@hippy/debug-server-next@latest":
-  version "0.4.15"
-  resolved "https://registry.yarnpkg.com/@hippy/debug-server-next/-/debug-server-next-0.4.15.tgz#b57906af38926ef80be48e4c039826ee421f6c05"
-  integrity sha512-IpavVJuj7xoEpLD/txiFmFrtw2uRH0+9vv80ppIKuGrPheXyWIkpeBEu4P3DYD0+GyHjLxc/ueO5IV1vKJh2+A==
+  resolved "https://registry.yarnpkg.com/@extscreen/es3-debug-server/-/es3-debug-server-0.0.1.tgz#d77330eea4bbe35e9b472dacf9ef4c9f623bb6f1"
+  integrity sha512-hYOiCP/xTgXg/wA/79OvwHxLIkepgIUd9hK4OGC17Dx15uzdMqrtrSZ7Dxv/2IQqvPfwoLHhE6hfPX4d3exOCA==
   dependencies:
     "@hippy/chrome-devtools" "^0.1.2"
-    "@hippy/chrome-devtools-extensions" "^0.0.1"
-    "@hippy/devtools-protocol" "^0.0.3"
+    "@hippy/chrome-devtools-extensions" "0.5.0"
+    "@hippy/devtools-protocol" "^0.0.4"
     "@hippy/hippy-hmr-plugin" "^0.1.0"
     "@hippy/hippy-react-devtools-plugin" "^0.1.0"
     "@hippy/hippy-vue-devtools-plugin" "^0.1.0"
@@ -2084,10 +2040,54 @@
     ws "^8.8.0"
     yargs "^17.2.1"
 
-"@hippy/devtools-protocol@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@hippy/devtools-protocol/-/devtools-protocol-0.0.3.tgz#204af3e5ac00fe71987b512ead08f3e3d565e740"
-  integrity sha512-7kkhtS/X+TQF0T9CWZCzX8SG1ddqefL6aGyPCMxHCewYO5nWdOeNXj9njbLDY9FFLnyJ2n9S1ALDaEbkSQz+xA==
+"@extscreen/es3-router@1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@extscreen/es3-router/-/es3-router-1.0.2.tgz#af6f8d3bb9a790e364e7ea6dc1b38596ee1b36d2"
+  integrity sha512-mAWukw7pWUFqcZ6SFwMLu9+WT9da4K0APQPZxREaF8xyaOI/S0Kga2suhY8puP/L8q3XP5UafFXyIOh/iv8UaQ==
+  dependencies:
+    "@vue/devtools-api" "^6.5.0"
+
+"@extscreen/es3-vue-style-parser@0.0.8":
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/@extscreen/es3-vue-style-parser/-/es3-vue-style-parser-0.0.8.tgz#bc15f720df8a02bb31a70f6edfd1ca07eb6781ce"
+  integrity sha512-01Z8CUVVSHlzWnXE0VdeCd+aKB6uxJoTedDLP0ucPHcOmuHtMN06WJQHN42qZBsSYFlKdyN6MWeB7tJkffLcWw==
+  dependencies:
+    "@vue/shared" "^3.2.21"
+
+"@extscreen/es3-vue@0.0.13":
+  version "0.0.13"
+  resolved "https://registry.yarnpkg.com/@extscreen/es3-vue/-/es3-vue-0.0.13.tgz#2d03618c3c3f2d5a6f3ee1adc9d164dc48e67325"
+  integrity sha512-iV6C2CxwD9zulZSSCKXhVGquQDQ99dzeb3sIaHUtdzmXs+4qv3Y4OQCuKYht2PDdQYKCnOMygFeDomCB6v+mpg==
+  dependencies:
+    "@vue/runtime-core" "^3.2.21"
+    "@vue/shared" "^3.2.21"
+
+"@hapi/hoek@^9.0.0":
+  version "9.3.0"
+  resolved "https://registry.yarnpkg.com/@hapi/hoek/-/hoek-9.3.0.tgz#8368869dcb735be2e7f5cb7647de78e167a251fb"
+  integrity sha512-/c6rf4UJlmHlC9b5BaNvzAcFv7HZ2QHaV0D4/HNlBdvFnvQq8RI4kYdhyPCl7Xj+oWvTWQ8ujhqS53LIgAe6KQ==
+
+"@hapi/topo@^5.0.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@hapi/topo/-/topo-5.1.0.tgz#dc448e332c6c6e37a4dc02fd84ba8d44b9afb012"
+  integrity sha512-foQZKJig7Ob0BMAYBfcJk8d77QtOe7Wo4ox7ff1lQYoNNAb6jwcY1ncdoy2e9wQZzvNy7ODZCYJkK8kzmcAnAg==
+  dependencies:
+    "@hapi/hoek" "^9.0.0"
+
+"@hippy/chrome-devtools-extensions@0.5.0":
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/@hippy/chrome-devtools-extensions/-/chrome-devtools-extensions-0.5.0.tgz#a0f8039a870fb2cecb7f09183ff4abc1430b763d"
+  integrity sha512-Z0alo6FiY5OcCSeugaC934FY/q8Ge/2zE6H3gOS9jXAkycTat21efuFBQC4jRNIeNJLJHJ5LHc5gPZcZ/9QS1A==
+
+"@hippy/chrome-devtools@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@hippy/chrome-devtools/-/chrome-devtools-0.1.2.tgz#ad9763b3c4b67bf430c0316f8cce9f561e2e8b11"
+  integrity sha512-iwJhsvQ5MiYpB68JVOgfiUMXL7IG8jrWu6quoAcODFatsQi8JPHm2VB+WymXiJnbbpdwL6WTDHFAvcOXQRYu0Q==
+
+"@hippy/devtools-protocol@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@hippy/devtools-protocol/-/devtools-protocol-0.0.4.tgz#0ffce16e5490f8628f8b2886519a1815d8322d43"
+  integrity sha512-wGUWt7OtQF51EzVoTAW6weY1bUCLvIQLnpyElT5ADt4IeP76nDpqYBRPZlNbZhYVaBOzMjTEs9VRZ0S3oevJHg==
 
 "@hippy/hippy-dynamic-import-plugin@^2.0.0":
   version "2.0.2"
@@ -2283,10 +2283,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@quicktvui/quicktvui3@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@quicktvui/quicktvui3/-/quicktvui3-1.0.0.tgz#c293c77f0711eb5ce07fc9dcfb6e240dc9183b37"
-  integrity sha512-JtqrLgNlfYFcIrawxC7ZssV7CJ7fKh6OeT6y0FUx0gbjLimaGmtW+bArElivsrhRL7zCW1X329qLULJo/9WOhQ==
+"@quicktvui/quicktvui3@1.0.86":
+  version "1.0.86"
+  resolved "https://registry.yarnpkg.com/@quicktvui/quicktvui3/-/quicktvui3-1.0.86.tgz#a781113908528affff46d31fa1921673c8c0b7ae"
+  integrity sha512-wI9qXZpDeAAojZ+n7v9MIEoYtojSbJQN16nOzAbutSPCg4/Xguy0WCugcqucSGn3RvrJ0u9FNtvOrrOM0hasxg==
 
 "@rollup/plugin-commonjs@^25.0.0":
   version "25.0.3"
